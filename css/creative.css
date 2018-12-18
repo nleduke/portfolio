@@ -52,7 +52,7 @@ h6 {
 }
 
 .text-faded {
-  color: rgba(22, 85, 45, 1);
+  color: #f8f9fa !important;
 }
 
 section {
